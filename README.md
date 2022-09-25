@@ -1,2 +1,2 @@
 # CIFAR10
-Cifar10 dataset and NN with Tensorflow
+CIFAR10 dataset and NN with Tensorflow
